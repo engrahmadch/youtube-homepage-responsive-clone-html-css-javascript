@@ -33,11 +33,11 @@ A beautiful and sleek clone of the YouTube homepage built with pure HTML, CSS, a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/youtube-homepage-clone.git
+   git clone https://github.com/engrahmadch/youtube-homepage-responsive-clone-html-css-javascript.git
    ```
 2. **Navigate to the project folder:**
    ```bash
-   cd youtube-homepage-clone
+   cd youtube-homepage-responsive-clone-html-css-javascript
    ```
 3. **Open `index.html` in your browser.**
 
