@@ -1,7 +1,5 @@
 # 🎬 YouTube HomePage Clone
 
-![YouTube Logo](images/logo.png)
-
 A beautiful and sleek clone of the YouTube homepage built with pure HTML, CSS, and JavaScript. This project aims to replicate the look and feel of YouTube's main page, focusing on responsive design and modern UI/UX practices.
 
 ---
